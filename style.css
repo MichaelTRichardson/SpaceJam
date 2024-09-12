@@ -1,0 +1,54 @@
+table{
+    /* border: 1px solid red; */
+    width: auto;
+    height: auto;
+    background-image: url(./images/p-jamlogo.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    
+}
+
+body{
+    background-image: url(./images/bg_stars.gif);
+    /* display: flex; */
+    /* justify-content: center; */
+    align-content: center;
+    
+}
+main{
+    display: flex;
+    justify-content: center;
+    /* margin: 25% 25% 25% 25%; */
+}
+footer{
+    display: flex;
+    /* justify-content: center; */
+    margin: 3rem;
+}
+.footer{
+    /* display: flex; */
+    /* justify-content: center; */
+    /* margin: 2rem 5rem 2rem 5rem; */
+    color: red;
+}
+.tradmarks{
+    color: red;
+    /* display: flex; */
+    /* justify-content: center; */
+    font-size: 15px;
+
+}
+footer{
+    /* padding: 2rem 5rem 5rem 5rem; */
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    /* padding: 2rem; */
+    margin-right: .5rem;
+}
+
+.tm{
+    margin-left: 1rem;
+}
